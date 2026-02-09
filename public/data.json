@@ -30,6 +30,7 @@
     {
       "title": "Robotics Programmer & Mentor",
       "company": "The Innovation Story",
+      "logo_url": "https://cdn.prod.website-files.com/65e177c31e395b37dc798786/65e1b09184d318d7e6c7c745_TIS%20Web%20Logo.png",
       "website": "https://www.theinnovationstory.com/",
       "location": "Mumbai, India",
       "duration": "11/2023 - 03/2025",
@@ -42,7 +43,9 @@
     },
     {
       "title": "Embedded Developer",
-      "company": "Vision Machine IoT Solutions",
+      "company": "Electronic Wings",
+      "logo_url": "https://www.electronicwings.com/storage/Logo/ew_short.svg",
+      "website": "https://www.electronicwings.com/",
       "location": "Pune, India",
       "duration": "08/2023 - 11/2023",
       "highlights": [
@@ -109,37 +112,256 @@
 
   "projects": [
     {
-      "name": "Diabetic Retinopathy Detection using CNN",
-      "duration": "09/2022 - 01/2023",
+      "name": "MachineCodeALHS (Automatic Liquid Handling System)",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
       "highlights": [
-        "Designed an end-to-end ML pipeline using TensorFlow, Python, and OpenCV.",
-        "Achieved 92.3% classification accuracy on retinal image datasets.",
-        "Integrated results with NodeMCU, 128x64 LCD, and Firebase for real-time monitoring."
+        "Developed a precision automation platform with a 3-axis (X, Y, Z) motion system.",
+        "Integrated camera-based detection to verify labware presence and alignment.",
+        "Enabled high-precision liquid dispensing for automated laboratory workflows."
       ],
-      "technologies": ["Python", "TensorFlow", "OpenCV", "Firebase", "NodeMCU"]
+      "technologies": ["Robotics", "Computer Vision", "Automation", "Motion Control"]
+    },
+     {
+      "name": "Global Home Automation",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Enabled remote control of appliances globally via internet-connected microcontrollers.",
+        "Integrated cloud communication for real-time responsiveness.",
+        "Implemented an electricity monitoring system to track unit usage."
+      ],
+      "technologies": ["IoT", "Cloud Computing", "Microcontrollers", "Sensors"]
     },
     {
-      "name": "Global Home Automation System",
-      "duration": "05/2021 - 06/2021",
+      "name": "FTC-Paraducks 2025",
+      "duration": "2025",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
       "highlights": [
-        "Developed a web-controlled home automation platform accessible globally.",
-        "Integrated temperature, humidity, and appliance status monitoring.",
-        "Combined embedded systems with web technologies."
+        "Engineered an integrated intake-outtake system for handling samples and specimens.",
+        "Utilized a rack-and-pinion mechanism for smooth linear motion.",
+        "Implemented advanced software logic for synchronizing subsystems and autonomous routines."
       ],
-      "technologies": ["Python", "Arduino", "Firebase", "HTML", "CSS", "JavaScript"]
+      "technologies": ["Robotics", "Java", "PID Control", "Sensors", "CAD"]
+    },
+     {
+      "name": "Apoc-Paracducks (APOC Robot)",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Designed for the Asia Pacific Open Championship with 8 motors and 12 servos.",
+        "Featured an active roller intake and bucket-based transfer system.",
+        "Optimized for high-performance Autonomous and TeleOp scoring on the BackDrop."
+      ],
+      "technologies": ["Robotics", "Java", "Control Systems", "Mechanical Design"]
     },
     {
-      "name": "Omnific Cars",
-      "duration": "11/2022 - 12/2022",
-      "github": "https://github.com/Ayush-kaithwas",
-      "deployed": "https://omnific-cars.netlify.app/",
+      "name": "Friday (Voice Assistant)",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
       "highlights": [
-        "Built a full-stack car listing platform with dynamic data loading.",
-        "Implemented CRUD operations with MongoDB backend."
+        "Developed a Python-based voice assistant with an interactive UI.",
+        "Implemented task automation for media, math, and system operations.",
+        "Integrated smart home control and network management features."
       ],
-      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB"]
+      "technologies": ["Python", "SpeechRecognition", "Automation", "IoT"]
+    },
+    {
+      "name": "Countries-Info",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Created a website to showcase global country data.",
+        "Implemented filtering functionality based on country name and continent.",
+        "Designed an intuitive interface for browsing geographical information."
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "API Integration"]
+    },
+   
+    {
+      "name": "Automation Circuit",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Built a Bluetooth-based home automation system using ATmega8A and HC-05.",
+        "Designed a custom PCB with relay switching and signal conditioning.",
+        "Enabled real-time wireless control of appliances via smartphone app."
+      ],
+      "technologies": ["Embedded C", "PCB Design", "ATmega8A", "Bluetooth (HC-05)", "Electronics"]
+    },
+    {
+      "name": "Omnific Cars Website",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Built a full-stack car listing platform using React and Express.js.",
+        "Implemented CRUD functionality for users to submit and manage listings.",
+        "Created a dynamic browsing experience categorized by car brand."
+      ],
+      "technologies": ["React.js", "Express.js", "Node.js", "Full Stack"]
+    },
+    {
+      "name": "Flask Website",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Developed a secure full-stack web application using Flask (Python).",
+        "Implemented user authentication (login/logout) and role-based dashboards.",
+        "Designed a responsive frontend with an interactive contact section."
+      ],
+      "technologies": ["Python", "Flask", "HTML/CSS", "JavaScript"]
+    },
+    {
+      "name": "Omnific Coder Website",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Designed a personal portfolio to showcase projects and skills.",
+        "Built a clean, responsive UI for seamless navigation on all devices.",
+        "Structured content effectively for professional presentation."
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "Frontend Design"]
+    },
+    {
+      "name": "URL Shortener",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Created a backend-driven application to convert long URLs into shareable links.",
+        "Implemented redirection handling for efficient navigation.",
+        "Included basic link management features."
+      ],
+      "technologies": ["Backend Development", "Database", "Web API"]
+    },
+   
+    {
+      "name": "F-R-I-D-A-Y (Terminal Version)",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Built a terminal-based voice assistant focused on system automation.",
+        "Supported commands for app launching, web navigation, and OS operations.",
+        "Integrated core speech recognition and command parsing logic."
+      ],
+      "technologies": ["Python", "Scripting", "System Automation", "CLI"]
+    },
+    {
+      "name": "Face Detection",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Developed a real-time face detection system using OpenCV.",
+        "Implemented simultaneous detection of eyes and smiles.",
+        "Utilized feature-based cascades for live camera input analysis."
+      ],
+      "technologies": ["Python", "OpenCV", "Computer Vision"]
+    },
+    {
+      "name": "Music Player",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Developed a GUI-based audio player using Python Tkinter.",
+        "Implemented core controls: play, pause, add, delete, and clear-all.",
+        "Ensured efficient audio file management and playback."
+      ],
+      "technologies": ["Python", "Tkinter", "GUI Development"]
+    },
+    {
+      "name": "Hand Recognition",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Built a computer vision system to identify hand types and finger counts.",
+        "Integrated real-time feedback with an LCD display.",
+        "Utilized advanced detection algorithms for accurate tracking."
+      ],
+      "technologies": ["Python", "OpenCV", "Embedded Systems", "Computer Vision"]
+    },
+    {
+      "name": "Space Invaders",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Recreated the classic arcade game with custom logic.",
+        "Implemented enemy wave patterns and collision detection.",
+        "Designed graphics rendering for smooth gameplay."
+      ],
+      "technologies": ["Python", "Game Logic", "Graphics"]
+    },
+    {
+      "name": "Shooter-Game",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Developed a 2D arcade-style game using Python Pygame.",
+        "Featured real-time shooting mechanics and enemy combat.",
+        "Implemented live high-score tracking and health monitoring."
+      ],
+      "technologies": ["Python", "Pygame", "Game Development"]
+    },
+    {
+      "name": "Snake-Game",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Recreated the classic Snake game with grid-based movement.",
+        "Implemented collision logic and increasing difficulty levels.",
+        "Designed a responsive game loop for smooth control."
+      ],
+      "technologies": ["Python", "Game Logic"]
+    },
+    {
+      "name": "Stone-Paper-Scissors Game",
+      "duration": "",
+      "image_url": "",
+      "github": "",
+      "deployed": "",
+      "highlights": [
+        "Built an interactive player-versus-computer game.",
+        "Implemented randomization logic for unpredictable computer moves.",
+        "Designed a simple interface for user interaction."
+      ],
+      "technologies": ["Python", "Logic", "Scripting"]
     }
-  ],
+  ]
+  ,
 
   "achievements": [
     "Winner – FTC India Regionals 2025 (Mentor, Team Matrix) – Qualified for World Championship, Houston.",
