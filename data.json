@@ -1,0 +1,151 @@
+{
+  "personal_information": {
+    "name": "Ayush Kaithwas",
+    "role": "Automation Engineer | Embedded Systems & Robotics Developer",
+    "email": "ayushharrysudha@gmail.com",
+    "phone": "6386746636",
+    "whatsapp": "6393898158",
+    "profile_image_url": "https://drive.google.com/file/d/1R6QB7yWjbuxcbB4Wd1cVICV09cK5_Cum/view?usp=sharing",
+    "github": "https://github.com/Ayush-kaithwas",
+    "linkedin": "https://www.linkedin.com/in/ayush-kaithwas-aa62171ba/",
+    "resume_link": "https://drive.google.com/file/d/1j3FLW6SmCy7dC2our5-glLDRuWI8556r/view?usp=sharing"
+  },
+
+  "professional_experience": [
+    {
+      "title": "Automation Engineer",
+      "company": "Microlit",
+      "logo_url": "https://www.microlit.com/favicon.ico",
+      "website": "https://www.microlit.com/",
+      "location": "Lucknow, India",
+      "duration": "04/2025 - Present",
+      "highlights": [
+        "Developed complete control software for high-precision Peristaltic Pump and Automatic Pipetting Station using STM32, FreeRTOS, HAL drivers, and TouchGFX.",
+        "Improved fluid dispensing accuracy from ±10% to ±0.5%, achieving industry-grade repeatability.",
+        "Designed responsive TouchGFX UI with custom widgets for enhanced operator usability.",
+        "Implemented safety checks, fault handling, and stable inter-task communication to improve system reliability.",
+        "Worked extensively on embedded firmware, motion control, and hardware–software co-design."
+      ]
+    },
+    {
+      "title": "Robotics Programmer & Mentor",
+      "company": "The Innovation Story",
+      "website": "https://www.theinnovationstory.com/",
+      "location": "Mumbai, India",
+      "duration": "11/2023 - 03/2025",
+      "highlights": [
+        "Led programming for multiple FTC robots using Java, contributing to wins at FTC Regionals 2024 and Asia Pacific Open Championship 2024 (Australia).",
+        "Mentored NGO teams under resource constraints, teaching control systems, inverse kinematics, and automation logic.",
+        "Conducted Java programming workshops with strong participant feedback.",
+        "Worked on advanced robotic prototypes including quadruped robots, robotic arms, Mars rover prototypes, and assistive robots."
+      ]
+    },
+    {
+      "title": "Embedded Developer",
+      "company": "Vision Machine IoT Solutions",
+      "location": "Pune, India",
+      "duration": "08/2023 - 11/2023",
+      "highlights": [
+        "Implemented ESP-NOW, BLE, Firebase, and WiFi Mesh for connected IoT systems.",
+        "Built end-to-end IoT solutions integrating embedded firmware with web dashboards.",
+        "Worked on real-time sensor data acquisition and embedded control logic."
+      ]
+    }
+  ],
+
+  "education": {
+    "degree": "Bachelor of Technology (Electronics and Communication Engineering)",
+    "institution": "Madan Mohan Malaviya University of Technology",
+    "duration": "07/2019 - 07/2023",
+    "location": "Gorakhpur, India"
+  },
+
+  "skills": {
+    "embedded_systems": [
+      "STM32 (Blue Pill, Black Pill, H7)",
+      "FreeRTOS",
+      "ESP-NOW",
+      "BLE",
+      "WiFi Mesh",
+      "Arduino",
+      "NodeMCU",
+      "Raspberry Pi",
+      "AVR"
+    ],
+    "programming_languages": [
+      "C",
+      "C++",
+      "Embedded C",
+      "Python",
+      "Java",
+      "JavaScript"
+    ],
+    "tools_and_frameworks": [
+      "STM32CubeIDE",
+      "TouchGFX",
+      "Atmel Studio",
+      "Proteus",
+      "CodeSYS",
+      "Git",
+      "GitHub",
+      "Linux"
+    ],
+    "web_and_iot": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "HTML",
+      "CSS"
+    ],
+    "computer_vision_ml": [
+      "OpenCV",
+      "TensorFlow",
+      "CNNs",
+      "Sensor Fusion"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Diabetic Retinopathy Detection using CNN",
+      "duration": "09/2022 - 01/2023",
+      "highlights": [
+        "Designed an end-to-end ML pipeline using TensorFlow, Python, and OpenCV.",
+        "Achieved 92.3% classification accuracy on retinal image datasets.",
+        "Integrated results with NodeMCU, 128x64 LCD, and Firebase for real-time monitoring."
+      ],
+      "technologies": ["Python", "TensorFlow", "OpenCV", "Firebase", "NodeMCU"]
+    },
+    {
+      "name": "Global Home Automation System",
+      "duration": "05/2021 - 06/2021",
+      "highlights": [
+        "Developed a web-controlled home automation platform accessible globally.",
+        "Integrated temperature, humidity, and appliance status monitoring.",
+        "Combined embedded systems with web technologies."
+      ],
+      "technologies": ["Python", "Arduino", "Firebase", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Omnific Cars",
+      "duration": "11/2022 - 12/2022",
+      "github": "https://github.com/Ayush-kaithwas",
+      "deployed": "https://omnific-cars.netlify.app/",
+      "highlights": [
+        "Built a full-stack car listing platform with dynamic data loading.",
+        "Implemented CRUD operations with MongoDB backend."
+      ],
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB"]
+    }
+  ],
+
+  "achievements": [
+    "Winner – FTC India Regionals 2025 (Mentor, Team Matrix) – Qualified for World Championship, Houston.",
+    "Winner – Asia Pacific Open Championship 2024, Australia (Mentor, Team Paraducks).",
+    "Best Engineering Award – FTC Goa Regionals 2024.",
+    "2nd Place – Robo Soccer (College Robotics Competition).",
+    "Winner – Electromaniac (College Technical Event)."
+  ]
+}
