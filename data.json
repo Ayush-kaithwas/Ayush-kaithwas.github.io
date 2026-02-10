@@ -178,9 +178,9 @@
     },
     {
       "name": "Countries-Info",
-      "duration": "",
-      "image_url": "",
-      "github": "",
+      "duration": "1-june-2025 - 25-june-2025",
+      "image_url": "https://github.com/user-attachments/assets/437fd90a-3aa2-48d0-bfb4-52d149b7ba5c",
+      "github": "https://github.com/Ayush-kaithwas/Countries-Info",
       "deployed": "",
       "highlights": [
         "Created a website to showcase global country data.",
@@ -360,14 +360,5 @@
       ],
       "technologies": ["Python", "Logic", "Scripting"]
     }
-  ]
-  ,
-
-  "achievements": [
-    "Winner – FTC India Regionals 2025 (Mentor, Team Matrix) – Qualified for World Championship, Houston.",
-    "Winner – Asia Pacific Open Championship 2024, Australia (Mentor, Team Paraducks).",
-    "Best Engineering Award – FTC Goa Regionals 2024.",
-    "2nd Place – Robo Soccer (College Robotics Competition).",
-    "Winner – Electromaniac (College Technical Event)."
   ]
 }
