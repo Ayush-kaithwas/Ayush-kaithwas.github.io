@@ -114,8 +114,8 @@
     {
       "name": "MachineCodeALHS (Automatic Liquid Handling System)",
       "duration": "",
-      "image_url": "",
-      "github": "",
+      "image_url": "https://private-user-images.githubusercontent.com/81899363/550417286-a4a37417-493f-4423-bc5c-9ea4cc29a377.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyNDE1NDMsIm5iZiI6MTc3MTI0MTI0MywicGF0aCI6Ii84MTg5OTM2My81NTA0MTcyODYtYTRhMzc0MTctNDkzZi00NDIzLWJjNWMtOWVhNGNjMjlhMzc3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE2VDExMjcyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwOTQyOWYyYmEzY2FhMjI2MmJjYzVjNGE3NWZmZWVhM2M4YWU5NDFhZGY0MzVjZGU3NGE5NDRjMDA4YzFhNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iseV58ButV99TCsIKzGvxY4wBkZyNCL-q5tFdDZY5FY",
+      "github": "https://github.com/Ayush-kaithwas/MachineCodeALHS",
       "deployed": "",
       "highlights": [
         "Developed a precision automation platform with a 3-axis (X, Y, Z) motion system.",
@@ -127,9 +127,9 @@
      {
       "name": "Global Home Automation",
       "duration": "",
-      "image_url": "",
-      "github": "",
-      "deployed": "",
+      "image_url": "https://private-user-images.githubusercontent.com/81899363/550419359-04adcfad-06d3-499e-b657-a3206264c12c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyNDE4NTEsIm5iZiI6MTc3MTI0MTU1MSwicGF0aCI6Ii84MTg5OTM2My81NTA0MTkzNTktMDRhZGNmYWQtMDZkMy00OTllLWI2NTctYTMyMDYyNjRjMTJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE2VDExMzIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkOTQwNzcxODAxYjQ5NDRkODVjMjYyYzRlZWIyMDQ2YTM3NjM3N2VjNDQ5YzAxZmY2MWY2YTg5NTNmZmNhMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-VLfVPDCZQghGIA85JeEBbq99mIayBK_eK3cJkRHTxA",
+      "github": "https://github.com/Ayush-kaithwas/Global-Home-Automation",
+      "deployed": "https://home-automation-9b63c.web.app/charts.html",
       "highlights": [
         "Enabled remote control of appliances globally via internet-connected microcontrollers.",
         "Integrated cloud communication for real-time responsiveness.",
@@ -166,8 +166,8 @@
     {
       "name": "Friday (Voice Assistant)",
       "duration": "",
-      "image_url": "",
-      "github": "",
+      "image_url": "https://user-images.githubusercontent.com/81899363/282702098-9ba9843d-28ff-4dfd-8257-2c349a6c4778.jpg",
+      "github": "https://github.com/Ayush-kaithwas/FRIDAY",
       "deployed": "",
       "highlights": [
         "Developed a Python-based voice assistant with an interactive UI.",
@@ -193,8 +193,8 @@
     {
       "name": "Automation Circuit",
       "duration": "",
-      "image_url": "",
-      "github": "",
+      "image_url": "https://private-user-images.githubusercontent.com/81899363/280200348-f668fdf1-f21f-4592-aa17-1141baf7a5c1.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyNDIwMDksIm5iZiI6MTc3MTI0MTcwOSwicGF0aCI6Ii84MTg5OTM2My8yODAyMDAzNDgtZjY2OGZkZjEtZjIxZi00NTkyLWFhMTctMTE0MWJhZjdhNWMxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE2VDExMzUwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4NDg1NDE5OGZjNzViNWFhNTFkNDUxMTM4MjZjODI0Y2EzNTVjYzI4ODgyNzhmYWMwNTlhNWY0MDA0ZWM1MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3C-f7yE4wmpHnqTWN5bw4cz-_FLaqdPFmeMzQl3NuPg",
+      "github": "https://github.com/Ayush-kaithwas/Automation-Circuit",
       "deployed": "",
       "highlights": [
         "Built a Bluetooth-based home automation system using ATmega8A and HC-05.",
@@ -206,9 +206,9 @@
     {
       "name": "Omnific Cars Website",
       "duration": "",
-      "image_url": "",
-      "github": "",
-      "deployed": "",
+      "image_url": "https://private-user-images.githubusercontent.com/81899363/550428861-6969ca1c-6742-42be-95a0-b2f74a25f309.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyNDMxMjksIm5iZiI6MTc3MTI0MjgyOSwicGF0aCI6Ii84MTg5OTM2My81NTA0Mjg4NjEtNjk2OWNhMWMtNjc0Mi00MmJlLTk1YTAtYjJmNzRhMjVmMzA5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE2VDExNTM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MDQ4ODI2ZDliOGJjOTFiZDIwMzM3ODkzMmU2MzBjYjJhMjQ0NjMyMGMxMDVjMjc3NTQ0ZDMyMjhmM2VkMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aWt6TJctpl-XyDqCMZxZAl7uHirE_4iEXFs6OiqJF6k",
+      "github": "https://github.com/Ayush-kaithwas/Cars-Frontend",
+      "deployed": "https://omnific-cars.netlify.app/",
       "highlights": [
         "Built a full-stack car listing platform using React and Express.js.",
         "Implemented CRUD functionality for users to submit and manage listings.",
@@ -219,28 +219,15 @@
     {
       "name": "Flask Website",
       "duration": "",
-      "image_url": "",
-      "github": "",
-      "deployed": "",
+      "image_url": "https://private-user-images.githubusercontent.com/81899363/550430844-593c037c-f9dc-44fc-a3e3-be966d620b59.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyNDMzODcsIm5iZiI6MTc3MTI0MzA4NywicGF0aCI6Ii84MTg5OTM2My81NTA0MzA4NDQtNTkzYzAzN2MtZjlkYy00NGZjLWEzZTMtYmU5NjZkNjIwYjU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE2VDExNTgwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzNzM1NTQwMDJiYzBjMjhiNjNlZjhlMTdiMmU3Y2MyMzIzYTdiNGY4ZjMxMDQwMzI0YWY1N2YxZGFiNTE0ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t7v6Z6jDKblN6bbtXSDp_2u6bvr_hs3Y7Qevq3LThTU",
+      "github": "https://github.com/Ayush-kaithwas/Flask_Website",
+      "deployed": "https://omnific-website.onrender.com/",
       "highlights": [
         "Developed a secure full-stack web application using Flask (Python).",
         "Implemented user authentication (login/logout) and role-based dashboards.",
         "Designed a responsive frontend with an interactive contact section."
       ],
       "technologies": ["Python", "Flask", "HTML/CSS", "JavaScript"]
-    },
-    {
-      "name": "Omnific Coder Website",
-      "duration": "",
-      "image_url": "",
-      "github": "",
-      "deployed": "",
-      "highlights": [
-        "Designed a personal portfolio to showcase projects and skills.",
-        "Built a clean, responsive UI for seamless navigation on all devices.",
-        "Structured content effectively for professional presentation."
-      ],
-      "technologies": ["HTML", "CSS", "JavaScript", "Frontend Design"]
     },
     {
       "name": "URL Shortener",
