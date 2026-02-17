@@ -80,7 +80,7 @@ const Home = () => {
                <span className="text-xs font-medium text-zinc-500 uppercase tracking-wider">Available for work</span>
             </div>
             <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-4">
-              hi, {personal_information.name.split(' ')[0].toLowerCase()} here. <span className="animate-wave inline-block origin-[70%_70%]">👋</span>
+              Hi, {personal_information.name.split(' ')[0]} here. <span className="animate-wave inline-block origin-[70%_70%]">👋</span>
             </h1>
             <p className="text-lg text-zinc-400 max-w-2xl leading-relaxed">
               I'm a {personal_information.role.toLowerCase()} who enjoys building 
