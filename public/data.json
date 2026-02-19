@@ -140,8 +140,8 @@
     {
       "name": "FTC-Paraducks 2025",
       "duration": "2025",
-      "image_url": "",
-      "github": "",
+      "image_url": "https://drive.google.com/file/d/1jzRYNe0QhzdLpEqyeuPXzt_0gMQUfKau/view?usp=sharing",
+      "github": "https://github.com/Ayush-kaithwas/FTC-Paraduucks-2025",
       "deployed": "",
       "highlights": [
         "Engineered an integrated intake-outtake system for handling samples and specimens.",
@@ -153,8 +153,8 @@
      {
       "name": "Apoc-Paracducks (APOC Robot)",
       "duration": "",
-      "image_url": "",
-      "github": "",
+      "image_url": "https://drive.google.com/file/d/1j3lYjMyRcpx2OzYFlK3A8XXTTuzgZskl/view?usp=sharing",
+      "github": "https://github.com/Ayush-kaithwas/APOC-PARADUCKS",
       "deployed": "",
       "highlights": [
         "Designed for the Asia Pacific Open Championship with 8 motors and 12 servos.",
@@ -193,7 +193,7 @@
     {
       "name": "Automation Circuit",
       "duration": "",
-      "image_url": "https://private-user-images.githubusercontent.com/81899363/280200348-f668fdf1-f21f-4592-aa17-1141baf7a5c1.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyNDQyOTYsIm5iZiI6MTc3MTI0Mzk5NiwicGF0aCI6Ii84MTg5OTM2My8yODAyMDAzNDgtZjY2OGZkZjEtZjIxZi00NTkyLWFhMTctMTE0MWJhZjdhNWMxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE2VDEyMTMxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzNGIwYWEzMmNiNjhjNzNkYWM5MjEzNmJmZWJhYzhjODdiZTVkNmQwZTQ3MGFmM2YzOGFlZWZlZTRmZmY3NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j6FhC5MxeOsVCDhUREI0xuIcQ87mkfq1Q6L-jhGG_Oo",
+      "image_url": "https://drive.google.com/file/d/1Zb_qaipc8CjmB6rlTHkpNRDEOgF5H6oi/view?usp=sharing",
       "github": "https://github.com/Ayush-kaithwas/Automation-Circuit",
       "deployed": "",
       "highlights": [
